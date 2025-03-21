@@ -8,7 +8,7 @@ export default function App() {
   // lógica do meu componente
   const nome = "Ian"
   function alerta() {
-    alert("Clicou no botão")
+    alert("Palmeiras não tem mundial")
   }
 
     // retorno com o jsx
@@ -32,7 +32,7 @@ export default function App() {
 
       <Text>Texto dentro</Text>
 
-      <Text>Bem vindo {nome}</Text>
+      <Text>Bem vindo {nome}, você é gatão!</Text>
 
       <Text>{2 + 2}</Text>
 
